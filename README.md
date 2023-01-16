@@ -6,6 +6,7 @@
 *He hopes to bring IoT, AI, ML and Blockchain together to build a sustainable future* 
 
 *3llipsism@gmail.com*
+
 *https://www.linkedin.com/in/nic-reich-61b117262/*
 
 **A place for my favorite assets.** 
