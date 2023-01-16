@@ -1,5 +1,7 @@
 # Media Design Assets  
-
+**Nicholas Reich**
+*Nic is a Mobile Developer with a focus in Blockchain*
+*He hopes to bring IoT, AI, ML and Blockchain together to build a sustainable future*
 **A place for my favorite assets.** 
 
 <sub> Divided into directories as follows: </sub>
