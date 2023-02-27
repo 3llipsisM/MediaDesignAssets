@@ -9,14 +9,16 @@
 
 *https://www.linkedin.com/in/nic-reich-61b117262/*
 
+*https://medium.com/@3llipsism*
+
 **A place for my favorite assets.** 
 
 <sub> Divided into directories as follows: </sub>
 
-1. Fonts
-2. Logos 
-3. References
-4. Cheatsheets
-5. Blog Posts 
+1. [Fonts](https://github.com/3llipsisM/MediaDesignAssets/tree/main/Fonts)
+2. [Logos](https://github.com/3llipsisM/MediaDesignAssets/tree/main/Logos) 
+3. [References](https://github.com/3llipsisM/MediaDesignAssets/tree/main/References)
+
+4. [Blog Posts](https://medium.com/@3llipsism)
 
 
